@@ -1,16 +1,17 @@
-# hello_world
+# sumadora de numeros
 
-A new Flutter project.
+Este proyecto es un simple ejemplo realizado con flutter 
+para sumar numeros mediante funciones , uso de texfields botones y manejo de excepciones.
 
-## Getting Started
+> Todas las características del presente proyecto son de código abierto, y sirven netamente como ejemplos básicos de flutter.
 
-This project is a starting point for a Flutter application.
+![imgaen1!](1.png) ![imgaen2!](2.png)
 
-A few resources to get you started if this is your first Flutter project:
+El presente proyecto fue elaborado utilizando las librerías de material para Windows forms. todo el codigo esta escrito en c# y fue desarrollado en el framework .net framework
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Ayúdame  Crecer Como desarrollador sigueme en:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Twitter](https://twitter.com/diaz190799)
+- [YouTube](https://www.youtube.com/channel/UC9G8JpXyUztKxAO7H6ZVbgA)
+- [Linkedin](https://www.linkedin.com/in/joan-david-diaz-704121210/)
+- [WebSite](https://davidiazdev.com/)
